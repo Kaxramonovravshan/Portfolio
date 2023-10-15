@@ -269,7 +269,7 @@ img{
 }
 
 .home__perfil img{
-    width: 205px !important;
+    width: 105px ;
     rotate: -2deg;
 }
 
@@ -913,7 +913,7 @@ img{
     }
 
     .home__perfil img{
-        width: 300px;
+        width: 205px;
     }
 
     .home__data{
