@@ -269,7 +269,8 @@ img{
 }
 
 .home__perfil img{
-    width: 225px !important;
+    width: 205px !important;
+    rotate: -2deg;
 }
 
 .home__social{
